@@ -5,7 +5,7 @@ public class employee extends human {
     public employee() {
         ID = 0;
         Salary = 0;
-    }
+    }/*comment*/
     public employee(String fName, String sName, int cAge, int ID, int Sal) {
         super(fName, sName, cAge);
         this.ID = ID;

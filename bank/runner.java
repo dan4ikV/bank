@@ -14,3 +14,4 @@ public class runner {
         System.out.println(cus3.getMoney());
     }
 }
+/*comment*/

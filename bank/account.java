@@ -1,7 +1,7 @@
 public class account {
     private int money;
     private int CardNumber;
-    private String Password;
+    private String Password;/*comment*/
     public void setPassword(String password) {
         this.Password = password;
     }

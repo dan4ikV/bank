@@ -4,7 +4,7 @@ public class customer extends human{
     Random random = new Random();
     private account CustomerAccount = new account();
     private int PhoneNumber;
-    private Transaction CTransaction = new Transaction();
+    private Transaction CTransaction = new Transaction();/*comment*/
     public customer() {
         PhoneNumber = 0;
         this.CustomerAccount = new account();

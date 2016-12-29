@@ -6,7 +6,7 @@ public class human {
             FirstName = "Eric";
             SecondName = "Martin";
             Age = 30;
-        }
+        }/*comment*/
         public human(String fName, String sName, int cAge){
             FirstName = fName;
             SecondName = sName;
